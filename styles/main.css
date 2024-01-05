@@ -115,6 +115,7 @@ img {
 .footer__text-mail {
   color: #300176;
   font-weight: 900;
+  text-decoration: none;
 }
 
 @media screen and (max-width: 850px) {
